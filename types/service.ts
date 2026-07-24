@@ -1,8 +1,8 @@
 import type { LucideIcon } from "lucide-react";
 
-export interface StatItem {
+export interface Service {
   id: string;
   icon: LucideIcon;
-  value: string;
-  label: string;
+  title: string;
+  description: string;
 }
