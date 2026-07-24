@@ -1,1 +1,9 @@
-
+export * from "./hero";
+export * from "./about";
+export * from "./services";
+export * from "./portfolio";
+export * from "./stats";
+export * from "./process";
+export * from "./team";
+export * from "./cta";
+export * from "./contact";
